@@ -1,6 +1,6 @@
-# Coding Quiz Solutions (Questions 1-5)
+# Coding Quiz Solutions
 
-This repository contains efficient, data-structure-heavy solutions for the compulsory portion
+The repository contains solutions for the coding quiz.
 of the attached coding quiz. The optional Iris machine-learning task is intentionally
 omitted per the request.
 
