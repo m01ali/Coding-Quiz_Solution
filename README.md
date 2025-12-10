@@ -1,8 +1,6 @@
 # Coding Quiz Solutions
 
-The repository contains solutions for the coding quiz.
-of the attached coding quiz. The optional Iris machine-learning task is intentionally
-omitted per the request.
+The repository contains solutions of the attached coding quiz.
 
 ## Included functions
 
@@ -12,7 +10,7 @@ inputs as parameters and immediately return the computed result.
 | Question | Function | Core Technique |
 | --- | --- | --- |
 | 1. Majority Element | `majority_element(nums)` | Boyer–Moore majority vote (O(n) / O(1)) |
-| 2. Valid Palindrome | `is_palindrome_phrase(s)` | Two-pointer scan, on-the-fly sanitization |
+| 2. Valid Palindrome | `is_palindrome_phrase(s)` | Two-pointer scan, on the fly sanitization |
 | 3. Climbing Stairs | `climb_stairs(n)` | Iterative Fibonacci DP with constant space |
 | 4. Roman to Integer | `roman_to_int(s)` | Greedy parsing with subtraction handling |
 | 5. Maximum Subarray | `max_subarray_sum(nums)` | Kadane's algorithm (O(n) / O(1)) |
