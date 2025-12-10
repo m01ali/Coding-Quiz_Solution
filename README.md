@@ -1,6 +1,7 @@
 # Coding Quiz Solutions
 
 The repository contains solutions of the attached coding quiz.
+Access the results of ML part by checking the Jupyter Notebook _(made in Colab)_ in the cod. 
 
 ## Included functions
 
