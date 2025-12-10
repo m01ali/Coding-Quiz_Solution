@@ -23,6 +23,7 @@ Install dependencies (only `pytest` is required for the unit tests):
 ```bash
 pip install -r requirements.txt
 ```
+_For ML part, use Google Colab_
 
 Run the full unit test suite:
 
