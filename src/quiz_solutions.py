@@ -1,10 +1,8 @@
-"""
-Each function adheres to the requirement of accepting input arguments
-and returning the computed output without performing any direct I/O.
-"""
 from __future__ import annotations
-
 from typing import Iterable, List
+
+# Each function adheres to the requirement of accepting input arguments
+# and returning the computed output without performing any direct I/O.
 
 # Question 1
 
@@ -29,7 +27,6 @@ def majority_element(nums: List[int]) -> int:
         else:
             votes -= 1
 
-    # Since the problem statement guarantees existence, candidate is valid.
     return candidate
 
 
